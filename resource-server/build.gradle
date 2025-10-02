@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.cardcompany'
 version = '0.0.1-SNAPSHOT'
-description = '당월 정보 조회 서버'
+description = '리소스 서버'
 
 java {
 	toolchain {
